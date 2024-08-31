@@ -8,7 +8,7 @@ Welcome to my personal portfolio website! This website showcases my skills, expe
 
 ## Live Demo
 
-You can view the live demo of the website [here](Souvik-Pramanik.github.io/Personal-Portfolio).
+You can view the live demo of the website [here](https://souvik-pramanik.github.io/Personal-Portfolio/).
 
 ## Features
 
